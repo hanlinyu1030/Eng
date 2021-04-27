@@ -14,15 +14,25 @@ public static void main(String[] args) {
 	System.out.print("a code block with syntax highlighting for the programming language being used.");
 }
 ```
-> block quote
-> 1. First
-> 2. Second
-> +  Third
-> +  Forth
+a block quote:
+> 1. one
+> 2. two
+> 3. three
 
-First Header | Second Header
+1. one
+2. two
+3. three
+   1. a
+   2. b
+
+* 1
+* 2
+  * a
+  * b
+
+First | Second
 ------------ | -------------
-a| b
+a | b
 c | d
 
 **bolded text**
