@@ -1,4 +1,4 @@
-# English_professional
+# English
 ## The Second Title
 #### The Forth Title
 alinktoanexternal<https://www.baidu.com>
@@ -25,10 +25,10 @@ $(document).ready(function () {
 | One  | Two |
 | Three  | Four |
 
-**Strong Font**
+**bolded text**
 
-*Slope Font*
+*italicized text*
 
-~Delete~
+~strikethrough text~
 
 ***
